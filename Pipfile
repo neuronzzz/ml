@@ -9,6 +9,8 @@ pandas = "*"
 matplotlib = "*"
 ipykernel = "*"
 sklearn = "*"
+emoji = "*"
+requests = "*"
 
 [dev-packages]
 
